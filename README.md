@@ -24,13 +24,13 @@ N / A
 
 - Apply semantic tags changes in index.html and style.css files in new branch refactor-starter-code-format. 
 
->***Semantic tags :***
-    >- &lt;aside&gt;&lt;/aside&gt;
-    >- &lt;form&gt;&lt;/form&gt;
-    >- &lt;header&gt;&lt;/header&gt;
-    >- &lt;nav&gt;&lt;/nav&gt;
-    >- &lt;section&gt;&lt;/section&gt;
-    >- &lt;table&gt;&lt;/table&gt;
+>***Semantic tags :***<br />
+    >- &lt;aside&gt;&lt;/aside&gt;<br />
+    >- &lt;form&gt;&lt;/form&gt;<br />
+    >- &lt;header&gt;&lt;/header&gt;<br />
+    >- &lt;nav&gt;&lt;/nav&gt;<br />
+    >- &lt;section&gt;&lt;/section&gt;<br />
+    >- &lt;table&gt;&lt;/table&gt;<br />
     >- &lt;footer&gt;&lt;/footer&gt;
 
 ![Git Bash screenshot](./assets/images/screenshots/semantic-changes-and-css-code-changes-accordingly-in-feature-branch.PNG)
