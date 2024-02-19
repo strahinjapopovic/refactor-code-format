@@ -77,6 +77,11 @@ p {
     margin-left: 25px;
 }
 
+/* Applied properties changed to the main section {<main>...</main>} of class main-class. */
+main.main-section{
+    width: 100%;
+}
+/* Under new section {<section>...</section>} elmement of class "content" {.content}, changed properties applied.  */
 .content {
     width: 75%;
     display: inline-block;
